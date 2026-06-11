@@ -1,0 +1,18 @@
+{
+  "name": "MIREJ-C — Gestion des Membres",
+  "short_name": "MIREJ-C",
+  "description": "Application de gestion des membres du MIREJ-C",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0f1b2d",
+  "theme_color": "#f0b429",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
